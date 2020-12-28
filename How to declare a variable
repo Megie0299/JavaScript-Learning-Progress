@@ -1,0 +1,5 @@
+var myVar
+myVar = 8;
+
+myVar =+ 16; // myVar is now reevaluated to 24
+
